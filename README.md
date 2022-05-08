@@ -3,6 +3,7 @@
 
 <p>
     Hi Guys, I'm <b>Mamul</b>, Backend Developer From <img src="https://cdn-icons-png.flaticon.com/512/330/330476.png" width="13"/> <b> Banjarmasin, Indonesia</b>
+    <br>
     <b>final year</b> undergraduation <b>Technology Information</b> from <a href="https://uniska-bjm.ac.id/" target="_blank">Universitas Kalimantan Islam Muhammad Arsyad Al Banjari Banjarmasin</a>
     <br>
     who is <b>obsessed and passionate</b> to <b>improving</b> himself and thirsty for <b>knowledge on every level</b> to <b>grow</b> and <b>beyond</b>.
