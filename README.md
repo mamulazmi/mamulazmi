@@ -1,12 +1,16 @@
 <h1>Hello Guys! Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <h2> Software Engineer | Cloud Engineer | System Administrator</h3>
+<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
+<img align='right' src='https://media3.giphy.com/media/pzryvxGeykOxeC0fWb/giphy.gif?cid=ecf05e4786ngphnhkycg8ge7ek1ysuln4gzbqkej83gdvdop&rid=giphy.gif&ct=g' width='200"'>
 
 <p>
     Hi Guys, I'm <b>Mamul</b>, Backend Developer From <img src="https://cdn-icons-png.flaticon.com/512/330/330476.png" width="13"/> <b> Banjarmasin, Indonesia</b>
     <br>
     <b>final year</b> undergraduation <b>Technology Information</b> from <a href="https://uniska-bjm.ac.id/" target="_blank">Universitas Kalimantan Islam Muhammad Arsyad Al Banjari Banjarmasin</a>
     <br>
-    who is <b>obsessed and passionate</b> to <b>improving</b> himself and thirsty for <b>knowledge on every level</b> to <b>grow</b> and <b>beyond</b>.
+    who is <b>obsessed and passionate</b> to <b>improving</b> himself 
+    <br>
+    and thirsty for <b>knowledge on every level</b> to <b>grow</b> and <b>beyond</b>.
     <br>
     Currently learning <b>Golang</b>, <b>Advanced Algorithms Concept</b> and <b>Microservices Architecture</b> 
 </p>
