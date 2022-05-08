@@ -53,6 +53,5 @@
     <a href="https://instagram.com/imamul.azmi" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mamulazmi/mamulazmi/snake-images/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+![GitHub Snake Light](https://raw.githubusercontent.com/mamulazmi/mamulazmi/snake-images/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/mamulazmi/mamulazmi/snake-images/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
