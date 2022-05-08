@@ -1,6 +1,5 @@
 <h1>Hello Guys! Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <h2> Software Engineer | Cloud Engineer | System Administrator</h3>
-<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 <img align='right' src='https://media3.giphy.com/media/pzryvxGeykOxeC0fWb/giphy.gif?cid=ecf05e4786ngphnhkycg8ge7ek1ysuln4gzbqkej83gdvdop&rid=giphy.gif&ct=g' width='200"'>
 
 <p>
@@ -8,9 +7,7 @@
     <br>
     <b>final year</b> undergraduation <b>Technology Information</b> from <a href="https://uniska-bjm.ac.id/" target="_blank">Universitas Kalimantan Islam Muhammad Arsyad Al Banjari Banjarmasin</a>
     <br>
-    who is <b>obsessed and passionate</b> to <b>improving</b> himself 
-    <br>
-    and thirsty for <b>knowledge on every level</b> to <b>grow</b> and <b>beyond</b>.
+    who is <b>obsessed and passionate</b> to <b>improving</b> himself and thirsty for <b>knowledge on every level</b> to <b>grow</b> and <b>beyond</b>.
     <br>
     Currently learning <b>Golang</b>, <b>Advanced Algorithms Concept</b> and <b>Microservices Architecture</b> 
 </p>
@@ -21,6 +18,7 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -34,6 +32,7 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="C Sharp" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
@@ -57,6 +56,7 @@
     <a href="https://twitter.com/Sn4ckEye" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://instagram.com/imamul.azmi" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
+
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/mamulazmi/mamulazmi/snake-images/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/mamulazmi/mamulazmi/snake-images/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
