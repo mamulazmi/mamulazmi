@@ -1,7 +1,10 @@
-<h1>Hello Guys! Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<p align="center">
+  <img src='https://c.tenor.com/p5q73vRBB5sAAAAC/obiwan-hellothere.gif' width="100%" height="350">
+</p>
+<br>
 <h2> Software Engineer | Cloud Engineer | System Administrator</h3>
+<br>
 <img align='right' src='https://media3.giphy.com/media/pzryvxGeykOxeC0fWb/giphy.gif?cid=ecf05e4786ngphnhkycg8ge7ek1ysuln4gzbqkej83gdvdop&rid=giphy.gif&ct=g' width='200"'>
-
 <p>
     Hi Guys, I'm <b>Mamul</b>, Backend Developer From <img src="https://cdn-icons-png.flaticon.com/512/330/330476.png" width="13"/> <b> Banjarmasin, Indonesia</b>
     <br>
